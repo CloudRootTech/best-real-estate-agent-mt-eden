@@ -1,0 +1,4 @@
+User-agent: AhrefsBot
+Allow: /
+
+Sitemap: https://CloudRootTech.github.io/best-real-estate-agent-mt-eden/sitemap.xml
